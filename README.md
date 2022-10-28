@@ -98,7 +98,7 @@ First, let's add a workflow to lint our Markdown files in this repository.
 <details id=2>
 <summary><h2>Step 2: Fix the test</h2></summary>
 
-*Great job adding the templated workflow! :tada:*
+_Great job adding the templated workflow! :tada:_
 
 Adding that file to this branch is enough for GitHub Actions to begin running CI on your repository.
 
@@ -108,7 +108,7 @@ When a GitHub Actions workflow is running, you should see some checks in progres
 
 You can follow along as GitHub Actions runs your job by going to the **Actions** tab or by clicking on "Details" in the merge box below.
 
-When the tests finish, you'll see a red X :x: or a green check mark :heavy*check*mark: in the merge box. At that point, you'll have access to logs for the build job and its associated steps.
+When the tests finish, you'll see a red X :x: or a green check mark :heavy_check_mark: in the merge box. At that point, you'll have access to logs for the build job and its associated steps.
 
 <!-- Note here: Learners -- yup, you found the error! Course maintainers -- leave the italics with * instead of _ for the error case. -->
 
